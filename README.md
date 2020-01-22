@@ -6,8 +6,6 @@ description: The Film DB is a movie rating database with an awesome open API!
 
 ## Getting Super Powers
 
-hello world
-
 Becoming a super hero is a fairly straight forward process:
 
 ```
