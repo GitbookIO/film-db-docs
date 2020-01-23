@@ -1,10 +1,10 @@
-# The Film DB
+# ewels/film-finder-db
 
 ##  Clone with HTTPS 
 
  Use Git or checkout with SVN using the web URL.
 
-[Download ZIP](https://github.com/ewels/film-finder-db/archive/master.zip)
+[Download ZIP](https://github.com/ewels/film-finder-db/archive/40bef29906b65a0e7de33ca572e35239a562dc08.zip)
 
 ## Launching GitHub Desktop
 
