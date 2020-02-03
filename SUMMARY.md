@@ -2,7 +2,7 @@
 
 * [The Film DB](README.md)
 
-## Guides
+## 😃 Guides
 
 * [Getting started](guides/getting-started.md)
 * [JavaScript Client](guides/untitled.md)
